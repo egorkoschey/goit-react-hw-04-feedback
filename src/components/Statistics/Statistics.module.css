@@ -1,0 +1,23 @@
+  .titleStat {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .notiStat {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    color: black;
+  }
+
+  .listTeam {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    background-color: aqua;
+    list-style: none;
+  }
